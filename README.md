@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 🌱 I’m currently learning FullStack development
+
 :computer: Stack: TypeScript Angular, JavaScript
 
 <!--
