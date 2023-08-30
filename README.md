@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 , I  start a new Startapp project
 
-🌱 I’m currently learning FullStack development
+🌱 I’m currently learning FullStack development, 
 
 :computer: Stack: TypeScript Angular, JavaScript, Django, Python, PostgreSql, MySql
 
