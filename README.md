@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning FullStack development, 
 
-:computer: Stack: TypeScript Angular, JavaScript, Django, Python, PostgreSql, MySql
+:computer: Stack: TypeScript Angular, JavaScript, Django, Python,
 
  :car: Dream Car: Mercedes Benz E-class w211
 <!--
