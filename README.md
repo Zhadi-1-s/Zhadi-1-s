@@ -1,4 +1,4 @@
-### Hi there 👋 (@Zhad1ger)
+### Kanatovich 👋 (@Zhad1ger)
 
 🌱 I’m currently learning FullStack development, 
 
