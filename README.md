@@ -1,4 +1,4 @@
-### Hi there 👋 , I  start a new Startapp project
+### Hi there 👋 
 
 🌱 I’m currently learning FullStack development, 
 
