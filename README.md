@@ -11,3 +11,5 @@ Here are some ideas to get you started:
 
 #DD0031
 -->
+
+![Profile views](https://komarev.com/ghpvc/?username=Zhadi-1-sE&color=blue)
